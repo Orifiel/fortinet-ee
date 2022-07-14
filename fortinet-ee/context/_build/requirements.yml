@@ -1,0 +1,6 @@
+---
+collections:
+  - fortinet.fortios
+  - ansible.utils
+  - ansible.posix
+  - ansible.netcommon
